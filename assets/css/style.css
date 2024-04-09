@@ -4,3 +4,10 @@
     width: 180px;
 
 }
+.img-banner{
+    max-width: 100%; /* Establece un ancho máximo para la imagen */
+    height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+    display: block; /* Asegúrate de que la imagen se comporte como un elemento de bloque */
+    margin-left: auto;
+    margin-right: auto;
+}

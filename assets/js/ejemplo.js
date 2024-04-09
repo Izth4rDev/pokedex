@@ -41,7 +41,9 @@ sumarNumeros(numero1, numero2);
  V o V = V
  V o F = V
  F o V = V
- F O F = F*/
+ F O F = F
+ 
+ */
 
  /*
  V and V = V
